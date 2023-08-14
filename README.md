@@ -3,6 +3,7 @@
 Upon relentless experiment, infinity is erroneous. BruteForcePDF will undo what was done!
 
 ```bash
+# NOTABLEPOINTS
 # Create a Virtual Environment 
 python3 -m virtualenv venv
 
