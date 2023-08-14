@@ -2,7 +2,7 @@
 
 Upon relentless experiment, infinity is erroneous. BruteForcePDF will undo what was done!
 
-```python
+```bash
 # Create a Virtual Environment 
 python3 -m virtualenv venv
 
@@ -12,6 +12,9 @@ source venv/bin/activate
 
 # Windows
 venv\Scripts\activate
+
+# Clone BruteForcePDF
+git clone https://github.com/vythks/BruteForcePDF.git
 
 # Install Requirements
 pip install -r MustHave.txt
